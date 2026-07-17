@@ -216,7 +216,7 @@ Authorization: Bearer <token>
 ![View Products Page](ss/ViewProductPage.png)
 
 ### Add Category Page
-![Add Category Page](ss/Addcategory.png)
+![Add Category Page](ss/AddcategoryPage.png)
 
 ### Single Product Page
 ![Single Product Page](ss/SingleProduct.png)
