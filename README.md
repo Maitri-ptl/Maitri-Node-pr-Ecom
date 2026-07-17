@@ -189,6 +189,38 @@ Authorization: Bearer <token>
 ## 📷 Screenshots
 
 ```md
+## Home Page
+![alt text](image-2.png)
+
+## FullHomePage
+![alt text](image-3.png)
+
+## Register Page
+![alt text](image-4.png)
+
+## Login Page
+![alt text](image-5.png)
+
+## Cart Page
+![alt text](image-6.png)
+
+## Full Cart Page
+![alt text](image-7.png)
+
+## Dashboard
+![alt text](image-8.png)
+
+## AddProductPage
+![alt text](image-1.png)
+
+## ViewProducts
+![alt text](image-10.png)
+
+## AddCategoryPage
+![alt text](image.png)
+
+## ViewCategories
+![alt text](image-9.png)
 
 ```
 
