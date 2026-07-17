@@ -188,38 +188,46 @@ Authorization: Bearer <token>
 
 ## 📷 Screenshots
 
-## Home Page
-![alt text](image-2.png)
+### Home Page
+![Home Page](ss/Homepage.png)
 
-## FullHomePage
-![alt text](image-3.png)
+### Full Home Page
+![Full Home Page](ss/FullHomepage.png)
 
-## Register Page
-![alt text](image-4.png)
+### Register Page
+![Register Page](ss/SignUpPage.png)
 
-## Login Page
-![alt text](image-5.png)
+### Login Page
+![Login Page](ss/LoginPage.png)
 
-## Cart Page
-![alt text](image-6.png)
+### Cart Page
+![Cart Page](ss/CartPage.png)
 
-## Full Cart Page
-![alt text](image-7.png)
+### Full Cart Page
+![Full Cart Page](ss/CartFull.png)
 
-## Dashboard
-![alt text](image-8.png)
+### Dashboard
+![Dashboard](ss/Dashboard.png)
 
-## AddProductPage
-![alt text](image-1.png)
+### Add Product Page
+![Add Product Page](ss/AddProductPage.png)
 
-## ViewProducts
-![alt text](image-10.png)
+### View Products Page
+![View Products Page](ss/ViewProductPage.png)
 
-## AddCategoryPage
-![alt text](image.png)
+### Add Category Page
+![Add Category Page](ss/AddCategory.png)
+
+### Single Product Page
+![Single Product Page](ss/SingleProduct.png)
+
+### View Category Page
+![View Category Page](ss/ViewCategory.png)
 
 ## ViewCategories
 ![alt text](image-9.png)
+
+```
 
 ---
 
