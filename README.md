@@ -221,9 +221,6 @@ Authorization: Bearer <token>
 ## ViewCategories
 ![alt text](image-9.png)
 
-
----
-
 ## 🎥 Demo Video
 
 ```
