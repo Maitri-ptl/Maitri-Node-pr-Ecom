@@ -189,29 +189,7 @@ Authorization: Bearer <token>
 ## 📷 Screenshots
 
 ```md
-## Register
 
-![Register](screenshots/register.png)
-
-## Login
-
-![Login](screenshots/Login.png)
-
-## Home
-
-![Home](screenshots/home.png)
-
-## Products
-
-![Products](screenshots/products.png)
-
-## Cart
-
-![Cart](screenshots/cart.png)
-
-## Dashboard
-
-![Dashbord](screenshots/dashboard.png)
 ```
 
 ---
