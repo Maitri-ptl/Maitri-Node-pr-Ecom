@@ -188,7 +188,6 @@ Authorization: Bearer <token>
 
 ## 📷 Screenshots
 
-```md
 ## Home Page
 ![alt text](image-2.png)
 
@@ -222,7 +221,6 @@ Authorization: Bearer <token>
 ## ViewCategories
 ![alt text](image-9.png)
 
-```
 
 ---
 
