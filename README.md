@@ -1,6 +1,6 @@
-# 🛍️ Maitri - E-Commerce Website
+# 🛍️ Maitri - Flipkart clone
 
-A full-stack **E-Commerce** application built using the **MERN Stack**. The platform allows users to browse products, manage their cart, authenticate securely using JWT, and provides an admin panel to manage categories and products.
+A full-stack **Flipcart Clone** application built using the **MERN Stack**. The platform allows users to browse products, manage their cart, authenticate securely using JWT, and provides an admin panel to manage categories and products.
 
 ---
 
