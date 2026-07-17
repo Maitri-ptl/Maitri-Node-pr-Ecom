@@ -224,9 +224,6 @@ Authorization: Bearer <token>
 ### View Category Page
 ![View Category Page](ss/ViewCategory.png)
 
-## ViewCategories
-![alt text](image-9.png)
-
 ```
 
 ---
